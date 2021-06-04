@@ -130,7 +130,7 @@
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
 
 <!--START_SECTION_LANGUAGE:readme-info-->
-**My 💖 languages Python** 
+**My 💖 languages R and Python** 
 
 | | | | |
 | --- | --- | --- | --- |
