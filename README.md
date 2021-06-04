@@ -23,7 +23,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://www.analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
 
-### I am a Data Scientist, Consultant and Instructor
+### I am a Futurist, Data Scientist, Consultant and Instructor
 - 🔭 I’m currently working on my Portfolio Website :grin:
 - 🌱 I’m currently learning all aspects of Machine Learning for Business.
 - 👯 I’m looking to collaborate with other Data Scientists, Developers, or anyone wanting to colab :wink:
