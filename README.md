@@ -1,16 +1,5 @@
-- 👋 Hi, I’m @alvinwendt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-alvinwendt/alvinwendt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+  [![Matrix SVG](https://www.intersystemsuki.com/wp-content/uploads/2020/06/finance.gif)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
   <h1 align="center"><b>Hello there, I'm Alvin 👋</b></h1>
 </p>
