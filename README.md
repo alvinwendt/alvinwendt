@@ -78,9 +78,9 @@
 
 ### :zap: Github Stats
 
-  <img align="left" src="https://github-readme-stats.alvinwendt.vercel.app/api?username=alvinwendt&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Alvin's Github Stats" width="60%">
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?alvinwendt=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
   
-<img src="https://github-readme-stats.alvinwendt.vercel.app/api/top-langs/?username=alvinwendt&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Alvin's Top Languages">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?alvinwendt=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
