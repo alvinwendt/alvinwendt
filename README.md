@@ -145,7 +145,7 @@
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 <!--START_SECTION_DAILY_COMMIT:readme-info-->
-**I'm an early 🐤** 
+<!--**I'm an early 🐤** 
 
 | | | | |
 | --- | --- | --- | --- |
@@ -154,12 +154,12 @@
 |🌃 Evening                |xx commits         |![](https://via.placeholder.com/148x22/000000/000000?text=+)![](https://via.placeholder.com/252x22/b8b8b8/b8b8b8?=text=+)|x.x%|
 |🌙 Night                  |xx commits          |![](https://via.placeholder.com/20x22/000000/000000?text=+)![](https://via.placeholder.com/380x22/b8b8b8/b8b8b8?=text=+)|x.x%|
 | | | | |
-
+-->
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
 
 <!--START_SECTION_WEEKLY_COMMIT:readme-info-->
 📅 **I'm Most Productive on Thursdays** 
-
+<!--
 | | | | |
 | --- | --- | --- | --- |
 |Monday                   |xx commits          |![](https://via.placeholder.com/56x22/000000/000000?text=+)![](https://via.placeholder.com/344x22/b8b8b8/b8b8b8?=text=+)|x.x%|
@@ -174,7 +174,7 @@
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
 
 <!--START_SECTION_LANGUAGE:readme-info-->
-**My 💖 languages R and Python** 
+<!--**My 💖 languages R and Python** 
 
 | | | | |
 | --- | --- | --- | --- |
