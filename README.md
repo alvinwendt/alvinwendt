@@ -7,9 +7,9 @@
 <p>
   <h4 align="center"><b>"The world is one big data problem."</b></h4>
 </p>
-
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/alvinwendt" />
+ 
     <a href="https://github.com/alvinwendt/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/alvinwendt/github-readme-stats/workflows/Test/badge.svg" />
     </a>
