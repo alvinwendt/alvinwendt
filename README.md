@@ -31,7 +31,7 @@
 
 ### I am a Futurist, Data Scientist, Consultant and Instructor
 - 🔭 I’m currently working on my Portfolio Website :grin:
-- 🌱 I’m currently learning all aspects of Machine Learning for Business.
+- 🌱 I’m currently learning all aspects of Machine Learning and Deep Learning for Business.
 - 👯 I’m looking to collaborate with other Data Scientists, Developers, or anyone wanting to colab :wink:
 - 🥅 2021 Goals: Compete in more Kaggle Competitions
 - 💬 Ask me about anything, I am happy to help :smile:
