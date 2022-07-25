@@ -30,14 +30,14 @@
 <img align="right" height="270px" alt="GIF" src="https://www.analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
 
 ### I am a Futurist, Data Scientist, Consultant and Instructor
-- 🔭 I’m currently working on my Portfolio Website :grin:
-- 🌱 I’m currently learning all aspects of Machine Learning and Deep Learning for Business.
-- 👯 I’m looking to collaborate with other Data Scientists, Developers, or anyone wanting to colab :wink:
-- 🥅 2021 Goals: Compete in more Kaggle Competitions
+- 🔭 I’m currently working on bridging my skills from data with software development :grin:
+- 🌱 I’m currently learning all aspects of Full Stack Development
+- 👯 I’m looking to work with other Data Scientists, Developers, or anyone wanting to collaborate :wink:
+- 🥅 2022 Goals: Learn JavaScripts in all its applications to data
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+- ⚡ Fun fact: I love connecting with new people :raised_hands:
 
 <br>
 
