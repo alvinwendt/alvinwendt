@@ -46,7 +46,7 @@
 <img style="margin:10px" align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img style="margin:10px" align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img style="margin:10px" align="left" alt="rstudio" width="35px" src="https://user-images.githubusercontent.com/70002987/122630240-fdabf700-d087-11eb-973b-57bd0dcde466.png"/>
-<img style="margin:10px" align="left" alt="sagemaker" width="35px" src="https://user-images.githubusercontent.com/70002987/122630241-fe448d80-d087-11eb-910e-78f539231249.png"/>
+<img align="left" alt="sagemaker" width="35px" src="https://user-images.githubusercontent.com/70002987/122630241-fe448d80-d087-11eb-910e-78f539231249.png"/>
 <img style="margin:10px" align="left" alt="scikitlearn" width="35px" src="https://user-images.githubusercontent.com/70002987/122630242-fe448d80-d087-11eb-903c-9343266d236e.png" />
 <img style="margin:10px" align="left" alt="seaborn" width="35px" src="https://user-images.githubusercontent.com/70002987/122630243-fe448d80-d087-11eb-8db5-e8321ed2c55a.png"/>
 <img style="margin:10px" align="left" alt="colab" width="35px" src="https://user-images.githubusercontent.com/70002987/122630260-1ddbb600-d088-11eb-98e6-8a9dca6be7a5.png"/>
@@ -80,7 +80,7 @@
 <img style="margin:10px" align="left" alt="rshiny" width="35px" src="https://user-images.githubusercontent.com/70002987/122630311-42d02900-d088-11eb-9997-1ffed63e56f7.png"/>
 <img style="margin:10px" align="left" alt="selenium" width="35px" src="https://user-images.githubusercontent.com/70002987/122630312-42d02900-d088-11eb-82f9-cdcf892b6d07.png"/>
 <img style="margin:10px" align="left" alt="statsmodels" width="35px" src="https://user-images.githubusercontent.com/70002987/122630316-46fc4680-d088-11eb-8ea8-75c5648fde24.png"/>
-<img style="margin:10px" align="left" alt="sql" width="35px" src="https://user-images.githubusercontent.com/70002987/122630317-4794dd00-d088-11eb-80c2-8f9d8a06b0f3.png"/>
+<img style="margin:10px" align="left" alt="sql" width="35px" src="https://dotnettrickscloud.blob.core.windows.net/uploads/CourseImages/becomeasqlserverdeveloper-mobile.png"/>
 <img style="margin:10px" align="left" alt="sqlalchemy" width="35px" src="https://user-images.githubusercontent.com/70002987/122630318-4794dd00-d088-11eb-8700-bbd232c25b70.png"/>
 <img style="margin:10px" align="left" alt="sqlite" width="35px" src="https://user-images.githubusercontent.com/70002987/122630319-4794dd00-d088-11eb-9255-877e8ea7b650.jpeg"/>
 <img style="margin:10px" align="left" alt="twitter_api" width="35px" src="https://user-images.githubusercontent.com/70002987/122630321-4a8fcd80-d088-11eb-9659-84e18251e69e.png"/>
@@ -95,6 +95,13 @@
 <img style="margin:10px" align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img style="margin:10px" align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img style="margin:10px" align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img style="margin:10px" align="left" alt="D3js" width="35px" src="https://raw.githubusercontent.com/d3/d3-logo/master/d3.png" />
+<img style="margin:10px" align="left" alt="Chartjs" width="35px" src="https://www.chartjs.org/img/chartjs-logo.svg" />
+<img style="margin:10px" align="left" alt="Tidyjs" width="35px" src="https://pbeshai.github.io/tidy/img/logo.svg" />
+<img style="margin:10px" align="left" alt="RxJS" width="35px" src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" />
+<img style="margin:10px" align="left" alt="Gatsby" width="35px" src="https://codingthesmartway.com/wp-content/uploads/2019/02/gatsby-logo.png" />
+<img style="margin:10px" align="left" alt="GraphQL" width="35px" src="https://www.advantco.com/hubfs/GraphicQL%20Logo.png" />
+<img style="margin:10px" align="left" alt="Vegalite" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Vega-Lite_Logo.svg/2560px-Vega-Lite_Logo.svg.png" />
 </article>
 <br>
 <br>
