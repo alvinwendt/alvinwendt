@@ -46,7 +46,7 @@
 <img style="margin:10px" align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img style="margin:10px" align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img style="margin:10px" align="left" alt="rstudio" width="35px" src="https://user-images.githubusercontent.com/70002987/122630240-fdabf700-d087-11eb-973b-57bd0dcde466.png"/>
-<img align="left" alt="sagemaker" width="35px" src="https://user-images.githubusercontent.com/70002987/122630241-fe448d80-d087-11eb-910e-78f539231249.png"/>
+<img style="margin:10px" align="left" alt="sagemaker" width="35px" src="https://user-images.githubusercontent.com/70002987/122630241-fe448d80-d087-11eb-910e-78f539231249.png"/>
 <img style="margin:10px" align="left" alt="scikitlearn" width="35px" src="https://user-images.githubusercontent.com/70002987/122630242-fe448d80-d087-11eb-903c-9343266d236e.png" />
 <img style="margin:10px" align="left" alt="seaborn" width="35px" src="https://user-images.githubusercontent.com/70002987/122630243-fe448d80-d087-11eb-8db5-e8321ed2c55a.png"/>
 <img style="margin:10px" align="left" alt="colab" width="35px" src="https://user-images.githubusercontent.com/70002987/122630260-1ddbb600-d088-11eb-98e6-8a9dca6be7a5.png"/>
