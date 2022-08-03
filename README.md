@@ -80,7 +80,7 @@
 <img style="margin:10px" align="left" alt="rshiny" width="35px" src="https://user-images.githubusercontent.com/70002987/122630311-42d02900-d088-11eb-9997-1ffed63e56f7.png"/>
 <img style="margin:10px" align="left" alt="selenium" width="35px" src="https://user-images.githubusercontent.com/70002987/122630312-42d02900-d088-11eb-82f9-cdcf892b6d07.png"/>
 <img style="margin:10px" align="left" alt="statsmodels" width="35px" src="https://user-images.githubusercontent.com/70002987/122630316-46fc4680-d088-11eb-8ea8-75c5648fde24.png"/>
-<img style="margin:10px" align="left" alt="sql" width="35px" src="https://dotnettrickscloud.blob.core.windows.net/uploads/CourseImages/becomeasqlserverdeveloper-mobile.png"/>
+<img style="margin:10px" align="left" alt="sql" width="35px" src="https://thumbs.dreamstime.com/b/sql-database-icon-logo-design-ui-ux-app-orange-inscription-shadow-96841969.jpg"/>
 <img style="margin:10px" align="left" alt="sqlalchemy" width="35px" src="https://user-images.githubusercontent.com/70002987/122630318-4794dd00-d088-11eb-8700-bbd232c25b70.png"/>
 <img style="margin:10px" align="left" alt="sqlite" width="35px" src="https://user-images.githubusercontent.com/70002987/122630319-4794dd00-d088-11eb-9255-877e8ea7b650.jpeg"/>
 <img style="margin:10px" align="left" alt="twitter_api" width="35px" src="https://user-images.githubusercontent.com/70002987/122630321-4a8fcd80-d088-11eb-9659-84e18251e69e.png"/>
