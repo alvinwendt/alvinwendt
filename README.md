@@ -99,7 +99,7 @@
 <img style="margin:10px" align="left" alt="Chartjs" width="35px" src="https://www.chartjs.org/img/chartjs-logo.svg" />
 <img style="margin:10px" align="left" alt="Tidyjs" width="35px" src="https://pbeshai.github.io/tidy/img/logo.svg" />
 <img style="margin:10px" align="left" alt="RxJS" width="35px" src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" />
-<img style="margin:10px" align="left" alt="Gatsby" width="35px" src="https://codingthesmartway.com/wp-content/uploads/2019/02/gatsby-logo.png" />
+<img style="margin:10px" align="left" alt="Gatsby" width="35px" src="https://upload.wikimedia.org/wikipedia/en/d/d0/Gatsby_Logo.png" />
 <img style="margin:10px" align="left" alt="GraphQL" width="35px" src="https://www.advantco.com/hubfs/GraphicQL%20Logo.png" />
 <img style="margin:10px" align="left" alt="Vegalite" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Vega-Lite_Logo.svg/2560px-Vega-Lite_Logo.svg.png" />
 </article>
