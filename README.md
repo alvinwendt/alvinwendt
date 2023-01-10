@@ -102,6 +102,7 @@
 <img style="margin:10px" align="left" alt="Gatsby" width="35px" src="https://upload.wikimedia.org/wikipedia/en/d/d0/Gatsby_Logo.png" />
 <img style="margin:10px" align="left" alt="GraphQL" width="35px" src="https://www.advantco.com/hubfs/GraphicQL%20Logo.png" />
 <img style="margin:10px" align="left" alt="Vegalite" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Vega-Lite_Logo.svg/2560px-Vega-Lite_Logo.svg.png" />
+<img style="margin:10px" align="left" alt="Figma" width="35px" src="https://userguiding.com/wp-content/uploads/2021/03/figma-courses-top.png" />  
 </article>
 <br>
 <br>
