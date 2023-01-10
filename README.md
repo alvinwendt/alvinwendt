@@ -33,7 +33,7 @@
 - 🔭 I’m currently working on bridging my skills from data with software development :grin:
 - 🌱 I’m currently learning all aspects of Full Stack Development
 - 👯 I’m looking to work with other Data Scientists, Developers, or anyone wanting to collaborate :wink:
-- 🥅 2022 Goals: Learn JavaScripts in all its applications to data
+- 🥅 2023 Goals: Learn backend development in both C#/.Net and Python/Django Frameworks as well as become versed in a cloud platform such as AWS or Azure
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
