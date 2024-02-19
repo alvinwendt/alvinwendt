@@ -31,13 +31,13 @@
 
 ### I am a Futurist, Data Scientist, Consultant and Instructor
 - 🔭 I’m currently working on bridging my skills from data with software development :grin:
-- 🌱 I’m currently learning all aspects of Full Stack Development
+- 🌱 I’m currently learning all aspects of Application Development
 - 👯 I’m looking to work with other Data Scientists, Developers, or anyone wanting to collaborate :wink:
-- 🥅 2023 Goals: Learn backend development in both C#/.Net and Python/Django Frameworks as well as become versed in a cloud platform such as AWS or Azure
+- 🥅 2024 Goals: Become versed in a cloud platform services such as AWS, Azure and Snowflake. Also learn to automate my algorithmic trading.
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with new people :raised_hands:
+- 🧗 I try to: Spark ideas and innovations
+- ⚡ Fun fact: I absolutely love connecting with new people and helping them learn and grow :raised_hands:
 
 <br>
 
